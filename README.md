@@ -1,4 +1,4 @@
-# razorpay-inspired-landing
+# QuickPay - razorpay-inspired-landing
 A modern Razorpay-inspired landing page built using HTML, CSS, Tailwind CSS and JavaScript. Fully responsive with sections like hero, features, product highlights, and footer.
 
 This project is a single-page landing website inspired by the modern, professional design of the Razorpay homepage. The structure, colour palette (Indigo and Violet accents), and key components (Hero, Features Grid, Split Product Highlights) are derived from the reference, but the content and branding are unique to the fictional "QuickPay" platform.

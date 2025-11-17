@@ -37,5 +37,13 @@ This project is delivered as a single, self-contained HTML file.
    
 Since the HTML includes the Tailwind CSS CDN link, no separate build step or local installation is required for viewing.
 
+
+# Screenshots:
+
 ![Screenshot](https://github.com/anjybnsl/razorpay-inspired-landing/blob/main/1.png)
+
+![Screenshot](https://github.com/anjybnsl/razorpay-inspired-landing/blob/main/2.png)
+
+![Screenshot](https://github.com/anjybnsl/razorpay-inspired-landing/blob/main/3.png)
+
 

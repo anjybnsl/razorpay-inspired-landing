@@ -35,6 +35,7 @@ This project is delivered as a single, self-contained HTML file.
    
 2.	Open in Browser: Open the index.html file directly using your web browser (e.g., right-click -> "Open with...").
    
-Since the HTML includes the Tailwind CSS CDN link (<src="https://cdn.tailwindcss.com">), no separate build step or local installation is required for viewing.
+Since the HTML includes the Tailwind CSS CDN link, no separate build step or local installation is required for viewing.
+
 
 

@@ -1,0 +1,13 @@
+ /* Custom Font and Global Styles */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f7f9fc; /* Light, clean background */
+        }
+        /* Custom gradient for the hero section background, similar to Razorpay's brand colors */
+        .hero-bg-gradient {
+            background: linear-gradient(135deg, #4F46E5 0%, #8B5CF6 100%); /* Indigo to Violet */
+        }
+        /* Custom shadow for prominence */
+        .card-shadow {
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+        }
